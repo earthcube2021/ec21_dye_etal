@@ -1,5 +1,9 @@
 ## Toward autonomous detection of anomalous GNSS data via applied unsupervised artificial intelligence 
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5496314.svg)](https://doi.org/10.5281/zenodo.5496314)
+
+
 ## Authors
 Mike Dye, D. Sarah Stamps, Myles Mason
 
