@@ -1,5 +1,9 @@
 ## Toward autonomous detection of anomalous GNSS data via applied unsupervised artificial intelligence 
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5496314.svg)](https://doi.org/10.5281/zenodo.5496314)
+
+
 ## Authors
 Mike Dye, D. Sarah Stamps, Myles Mason
 
@@ -13,7 +17,7 @@ TZVOLCANO, CHORDS, UNAVCO, Artificial Intelligence, Machine Learning
 These notebooks are Binder enabled and can be run on [mybinder.org](https://mybinder.org/) for free using the links below
 
 ### MD_01_TZVOLCANO_Gaussian_Mixtures_Anomaly_Detection (Notebook for EarthCube) 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdye/TZVOLCANO_machine_learning.git/HEAD?filepath=MD_01_TZVOLCANO_Unsupervised_AI_Anomaly_Detection.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2021/ec21_dye_etal.git/HEAD?filepath=MD_01_TZVOLCANO_Unsupervised_AI_Anomaly_Detection.ipynb)
 
 
 ## Installation on local machine

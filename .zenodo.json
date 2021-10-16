@@ -1,0 +1,9 @@
+{
+    "title": "Toward autonomous detection of anomalous GNSS data via applied unsupervised artificial intelligence",
+    "creators": [
+        {"name": "Mike Dye", "affiliation": "Unaffiliated",   "orcid": "0000-0003-2065-870X"},
+    {"name": "Dr. Sarah Stamps", "affiliation": "Virginia Tech",   "orcid": "0000-0002-3531-1752"},
+    {"name": "Myles Mason", "affiliation": "Virginia Tech",   "orcid": "0000-0002-8811-8294"}   
+    ],
+    "keywords": [ "TZVOLCANO", "CHORDS", "UNAVCO", "Artificial Intelligence", "Machine Learning"]
+}
